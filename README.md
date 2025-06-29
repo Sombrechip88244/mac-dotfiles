@@ -8,11 +8,11 @@ xcode-select --install # If you don't have Xcode Command Line Tools
 ```
 #### Clone Dotfiles repo:
 ```
-git clone https://github.com/your_github_username/your_dotfiles_repo_name.git ~/your_dotfiles_repo_name
+git clone https://github.com/Sombrechip88244/mac-dotfiles.git ~/.dotfiles
 ```
 #### Run the script:
 ```
-cd ~/your_dotfiles_repo_name
+cd ~/.dotfiles
 ./install.sh
 ```
 ### Explanation of script
